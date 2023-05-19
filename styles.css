@@ -1,0 +1,42 @@
+body{
+    background-color: blue;
+    text-align: center;
+}
+
+a:visited{
+    color: pink;
+}
+
+
+h1 {
+    display:inline-block;
+    
+    width: 150px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    background-image: url(pab.jpg);
+    background-size:width=300px;
+    color:white;
+}
+
+
+li {
+    
+    list-style-position: inside;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(235, 229, 229);
+}
+
+a:visited:hover {
+    color:orange;
+    font-size: 50px;
+}
+
+
+img {
+    display: block;
+    margin: 0 auto;
+    height: 300px;
+    width:auto
+  }
+  
